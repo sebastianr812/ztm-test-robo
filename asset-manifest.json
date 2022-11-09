@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.cc925c9c.css",
-    "main.js": "/static/js/main.bdf1087b.js",
-    "static/js/787.32032a02.chunk.js": "/static/js/787.32032a02.chunk.js",
-    "static/media/SEGA.woff": "/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/index.html",
-    "main.cc925c9c.css.map": "/static/css/main.cc925c9c.css.map",
-    "main.bdf1087b.js.map": "/static/js/main.bdf1087b.js.map",
-    "787.32032a02.chunk.js.map": "/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/ztm-test-robo/static/css/main.e21fa35c.css",
+    "main.js": "/ztm-test-robo/static/js/main.8e197ffa.js",
+    "static/js/787.32032a02.chunk.js": "/ztm-test-robo/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/ztm-test-robo/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/ztm-test-robo/index.html",
+    "main.e21fa35c.css.map": "/ztm-test-robo/static/css/main.e21fa35c.css.map",
+    "main.8e197ffa.js.map": "/ztm-test-robo/static/js/main.8e197ffa.js.map",
+    "787.32032a02.chunk.js.map": "/ztm-test-robo/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc925c9c.css",
-    "static/js/main.bdf1087b.js"
+    "static/css/main.e21fa35c.css",
+    "static/js/main.8e197ffa.js"
   ]
 }
